@@ -1,0 +1,13 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="itrulia-qol.lua"/>
+	<Script file="itrulia-eui.lua"/>
+
+	<Script file="bigwigs.lua"/>
+	<Script file="nsrt.lua"/>
+	<Script file="exboss.lua"/>
+
+	<Script file="hiding-bar.lua"/>
+	<Script file="edit-mode.lua"/>
+
+	<Script file="ellesmere-ui.lua"/>
+</Ui>

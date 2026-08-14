@@ -1,0 +1,12 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="init.lua"/>
+	<Script file="kit.lua"/>
+	<Script file="recommended.lua"/>
+	<Script file="previews.lua"/>
+	<Script file="wizard.lua"/>
+	<Script file="steps.lua"/>
+
+	<Include file="addons\init.xml"/>
+
+	<Script file="options.eui.lua"/>
+</Ui>
