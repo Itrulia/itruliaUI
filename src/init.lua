@@ -168,9 +168,7 @@ function ItruliaUI:SlashProcessor(input)
     if arg == "" or arg == "install" or arg == "i" then
         self:GetModule("Installer"):Toggle()
     elseif arg == "config" or arg == "c" then
-        if self.EUI and self.EUI.ShowModule then
-            self.EUI:ShowModule(addonName .. "_Installer")
-        else
+        if not self:OpenEUI() then
             self:Print("|cffff8000EllesmereUI is not available|r. These settings have no other panel.")
         end
     elseif arg == "test" or arg == "t" then
