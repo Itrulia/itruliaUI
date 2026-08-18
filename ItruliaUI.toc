@@ -7,7 +7,7 @@
 ## IconTexture: Interface\AddOns\ItruliaUI\logo
 ## SavedVariables: ItruliaUIDB
 ## Dependencies: ItruliaQoL, EllesmereUI
-## OptionalDeps: ItruliaEUI, BigWigs, NorthernSkyRaidTools, EXBoss, HidingBar
+## OptionalDeps: ItruliaEUI, BigWigs, NorthernSkyRaidTools, EXBoss, HidingBar, AutoPotion
 ## X-Wago-ID: aNebld62
 ## X-Curse-Project-ID: 1651522
 
